@@ -1,6 +1,6 @@
 
 def multiplication (a,b)
-	puts "#{a} * #{b} = #{a * b}"
+	puts "#{a} X #{b} = #{a * b}"
 end
 
 multiplication(2,3)
